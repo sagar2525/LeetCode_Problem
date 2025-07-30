@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/sagar2525/LeetCode_Problem/tree/master/0039-combination-sum) |
 | [0526-beautiful-arrangement](https://github.com/sagar2525/LeetCode_Problem/tree/master/0526-beautiful-arrangement) |
 ## Dynamic Programming
 |  |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/sagar2525/LeetCode_Problem/tree/master/0039-combination-sum) |
 | [0526-beautiful-arrangement](https://github.com/sagar2525/LeetCode_Problem/tree/master/0526-beautiful-arrangement) |
 ## Bit Manipulation
 |  |
