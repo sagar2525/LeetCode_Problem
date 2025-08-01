@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/sagar2525/LeetCode_Problem/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/sagar2525/LeetCode_Problem/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sagar2525/LeetCode_Problem/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/sagar2525/LeetCode_Problem/tree/master/0047-permutations-ii) |
 | [0526-beautiful-arrangement](https://github.com/sagar2525/LeetCode_Problem/tree/master/0526-beautiful-arrangement) |
 | [1758-distribute-repeating-integers](https://github.com/sagar2525/LeetCode_Problem/tree/master/1758-distribute-repeating-integers) |
 ## Dynamic Programming
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/sagar2525/LeetCode_Problem/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sagar2525/LeetCode_Problem/tree/master/0040-combination-sum-ii) |
+| [0047-permutations-ii](https://github.com/sagar2525/LeetCode_Problem/tree/master/0047-permutations-ii) |
 | [0526-beautiful-arrangement](https://github.com/sagar2525/LeetCode_Problem/tree/master/0526-beautiful-arrangement) |
 | [1758-distribute-repeating-integers](https://github.com/sagar2525/LeetCode_Problem/tree/master/1758-distribute-repeating-integers) |
 ## Bit Manipulation
@@ -41,4 +43,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/sagar2525/LeetCode_Problem/tree/master/0016-3sum-closest) |
+| [0047-permutations-ii](https://github.com/sagar2525/LeetCode_Problem/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
