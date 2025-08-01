@@ -7,7 +7,12 @@ void solve(vector<int>& nums,vector<vector<int>>&ans,int index){
         return;
     }
     //ek case
+    unordered_map<int, bool>visited;
     for(int i=index;i<nums.size();i++){
+        if(visited.find(nums[i]) != visited.end()){
+            continue;
+        }
+        visited[nums[i]]= true;
         swap(nums[i],nums[index]);
         solve(nums,ans,index+1);
         swap(nums[i],nums[index]);
@@ -17,14 +22,14 @@ void solve(vector<int>& nums,vector<vector<int>>&ans,int index){
         sort(nums.begin(),nums.end());
         vector<vector<int>> ans;
         solve(nums,ans,0);
-        set<vector<int>> st;
-        for(auto e : ans){
-            st.insert(e);
-        }
-        ans.clear();
-        for(auto e:st){
-            ans.push_back(e);
-        }
+        // set<vector<int>> st;
+        // for(auto e : ans){
+        //     st.insert(e);
+        // }
+        // ans.clear();
+        // for(auto e:st){
+        //     ans.push_back(e);
+        // }
         return ans;
     }
 };
