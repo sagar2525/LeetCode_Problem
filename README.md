@@ -46,4 +46,12 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/sagar2525/LeetCode_Problem/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/sagar2525/LeetCode_Problem/tree/master/0047-permutations-ii) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sagar2525/LeetCode_Problem/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/sagar2525/LeetCode_Problem/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
