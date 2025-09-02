@@ -79,6 +79,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sagar2525/LeetCode_Problem/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/sagar2525/LeetCode_Problem/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
@@ -91,5 +92,6 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sagar2525/LeetCode_Problem/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/sagar2525/LeetCode_Problem/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
