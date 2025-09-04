@@ -2,11 +2,11 @@ class Solution {
 public:
     int longestValidParentheses(string s) {
         stack<int> st;
-        int maxi = 0;
         st.push(-1);
+        int maxi = 0;
         for(int i=0;i<s.length();i++){
             char ch = s[i];
-            if(ch == '('){
+            if(ch=='('){
                 st.push(i);
             }
             else{
@@ -16,10 +16,11 @@ public:
                 }
                 else{
                     int len = i-st.top();
-                    maxi =  max(maxi , len);
+                    maxi = max(len,maxi);
                 }
             }
         }
         return maxi;
+
     }
 };
