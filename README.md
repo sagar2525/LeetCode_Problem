@@ -80,6 +80,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sagar2525/LeetCode_Problem/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/sagar2525/LeetCode_Problem/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/sagar2525/LeetCode_Problem/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
@@ -94,4 +95,8 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/sagar2525/LeetCode_Problem/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/sagar2525/LeetCode_Problem/tree/master/0344-reverse-string) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/sagar2525/LeetCode_Problem/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
