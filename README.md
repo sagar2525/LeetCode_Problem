@@ -11,6 +11,7 @@
 | [0039-combination-sum](https://github.com/sagar2525/LeetCode_Problem/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sagar2525/LeetCode_Problem/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/sagar2525/LeetCode_Problem/tree/master/0047-permutations-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sagar2525/LeetCode_Problem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0526-beautiful-arrangement](https://github.com/sagar2525/LeetCode_Problem/tree/master/0526-beautiful-arrangement) |
 | [1758-distribute-repeating-integers](https://github.com/sagar2525/LeetCode_Problem/tree/master/1758-distribute-repeating-integers) |
 ## Dynamic Programming
@@ -82,6 +83,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/sagar2525/LeetCode_Problem/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sagar2525/LeetCode_Problem/tree/master/0032-longest-valid-parentheses) |
+| [0084-largest-rectangle-in-histogram](https://github.com/sagar2525/LeetCode_Problem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/sagar2525/LeetCode_Problem/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/sagar2525/LeetCode_Problem/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
@@ -102,4 +104,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/sagar2525/LeetCode_Problem/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sagar2525/LeetCode_Problem/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
