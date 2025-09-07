@@ -14,6 +14,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/sagar2525/LeetCode_Problem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0526-beautiful-arrangement](https://github.com/sagar2525/LeetCode_Problem/tree/master/0526-beautiful-arrangement) |
 | [1072-next-greater-node-in-linked-list](https://github.com/sagar2525/LeetCode_Problem/tree/master/1072-next-greater-node-in-linked-list) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sagar2525/LeetCode_Problem/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1758-distribute-repeating-integers](https://github.com/sagar2525/LeetCode_Problem/tree/master/1758-distribute-repeating-integers) |
 ## Dynamic Programming
 |  |
@@ -114,4 +115,8 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sagar2525/LeetCode_Problem/tree/master/0084-largest-rectangle-in-histogram) |
 | [1072-next-greater-node-in-linked-list](https://github.com/sagar2525/LeetCode_Problem/tree/master/1072-next-greater-node-in-linked-list) |
+## Math
+|  |
+| ------- |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sagar2525/LeetCode_Problem/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 <!---LeetCode Topics End-->
