@@ -12,6 +12,7 @@
 | [0040-combination-sum-ii](https://github.com/sagar2525/LeetCode_Problem/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/sagar2525/LeetCode_Problem/tree/master/0047-permutations-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sagar2525/LeetCode_Problem/tree/master/0084-largest-rectangle-in-histogram) |
+| [0134-gas-station](https://github.com/sagar2525/LeetCode_Problem/tree/master/0134-gas-station) |
 | [0526-beautiful-arrangement](https://github.com/sagar2525/LeetCode_Problem/tree/master/0526-beautiful-arrangement) |
 | [1072-next-greater-node-in-linked-list](https://github.com/sagar2525/LeetCode_Problem/tree/master/1072-next-greater-node-in-linked-list) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sagar2525/LeetCode_Problem/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -119,4 +120,8 @@
 |  |
 | ------- |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sagar2525/LeetCode_Problem/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/sagar2525/LeetCode_Problem/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
