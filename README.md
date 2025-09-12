@@ -18,6 +18,7 @@
 | [1072-next-greater-node-in-linked-list](https://github.com/sagar2525/LeetCode_Problem/tree/master/1072-next-greater-node-in-linked-list) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sagar2525/LeetCode_Problem/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1758-distribute-repeating-integers](https://github.com/sagar2525/LeetCode_Problem/tree/master/1758-distribute-repeating-integers) |
+| [3725-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/sagar2525/LeetCode_Problem/tree/master/3725-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | [0234-palindrome-linked-list](https://github.com/sagar2525/LeetCode_Problem/tree/master/0234-palindrome-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/sagar2525/LeetCode_Problem/tree/master/1072-next-greater-node-in-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/sagar2525/LeetCode_Problem/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [3725-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/sagar2525/LeetCode_Problem/tree/master/3725-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -121,10 +123,12 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sagar2525/LeetCode_Problem/tree/master/0084-largest-rectangle-in-histogram) |
 | [1072-next-greater-node-in-linked-list](https://github.com/sagar2525/LeetCode_Problem/tree/master/1072-next-greater-node-in-linked-list) |
+| [3725-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/sagar2525/LeetCode_Problem/tree/master/3725-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 ## Math
 |  |
 | ------- |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sagar2525/LeetCode_Problem/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [3725-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/sagar2525/LeetCode_Problem/tree/master/3725-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 ## Greedy
 |  |
 | ------- |
