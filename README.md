@@ -18,6 +18,7 @@
 | [1072-next-greater-node-in-linked-list](https://github.com/sagar2525/LeetCode_Problem/tree/master/1072-next-greater-node-in-linked-list) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sagar2525/LeetCode_Problem/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1758-distribute-repeating-integers](https://github.com/sagar2525/LeetCode_Problem/tree/master/1758-distribute-repeating-integers) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/sagar2525/LeetCode_Problem/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [3725-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/sagar2525/LeetCode_Problem/tree/master/3725-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 ## Dynamic Programming
 |  |
