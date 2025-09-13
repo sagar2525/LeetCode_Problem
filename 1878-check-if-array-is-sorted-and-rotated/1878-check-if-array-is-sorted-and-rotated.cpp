@@ -4,14 +4,19 @@ public:
         int n = nums.size();
         int countBreaks = 0;
 
-        for (int i = 0; i < n; i++) {
-            // Compare current with next (next wraps around using %)
-            if (nums[i] > nums[(i + 1) % n]) {
+        // check breaks inside array
+        for (int i = 1; i < n; i++) {
+            if (nums[i - 1] > nums[i]) {
                 countBreaks++;
             }
-            // More than one break → not sorted-rotated
             if (countBreaks > 1) return false;
         }
-        return true;
+
+        // check last element with first (wrap around)
+        if (nums[n - 1] > nums[0]) {
+            countBreaks++;
+        }
+
+        return countBreaks <= 1;
     }
 };
