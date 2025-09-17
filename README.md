@@ -158,4 +158,16 @@
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sagar2525/LeetCode_Problem/tree/master/2271-rearrange-array-elements-by-sign) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0543-diameter-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
