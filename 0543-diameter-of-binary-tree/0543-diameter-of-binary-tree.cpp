@@ -11,7 +11,6 @@
  */
 class Solution {
 public:
-
 int getheight(TreeNode* root){
     if(root==NULL){
         return 0;
@@ -19,19 +18,21 @@ int getheight(TreeNode* root){
 
     int left = getheight(root->left);
     int right = getheight(root->right);
-    int maxheight = max(left,right);
-    int height = maxheight+1;
-    return height;
+    int maxi = max(left,right)+1;
+    return maxi;
 }
+    int diam =INT_MIN;
     int diameterOfBinaryTree(TreeNode* root) {
-        if(root == NULL){
+        if(root==NULL){
             return 0;
         }
+        int lemax = getheight(root->left);
+        int rhmax = getheight(root->right);
+        int ans = lemax+rhmax;
+        diam = max(ans,diam);
 
-        int option1 = diameterOfBinaryTree(root->left);
-        int option2 = diameterOfBinaryTree(root->right);
-        int option3 = getheight(root->left) + getheight(root->right);
-        int maxi = max(option1 , max(option2 , option3));
-        return maxi;
+        diameterOfBinaryTree(root->left);
+        diameterOfBinaryTree(root->right);
+        return diam;
     }
 };
