@@ -161,23 +161,27 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/sagar2525/LeetCode_Problem/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/sagar2525/LeetCode_Problem/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/sagar2525/LeetCode_Problem/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/sagar2525/LeetCode_Problem/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
