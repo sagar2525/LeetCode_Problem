@@ -67,6 +67,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sagar2525/LeetCode_Problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/sagar2525/LeetCode_Problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sagar2525/LeetCode_Problem/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/sagar2525/LeetCode_Problem/tree/master/0148-sort-list) |
@@ -93,6 +94,7 @@
 | [0020-valid-parentheses](https://github.com/sagar2525/LeetCode_Problem/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sagar2525/LeetCode_Problem/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sagar2525/LeetCode_Problem/tree/master/0084-largest-rectangle-in-histogram) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sagar2525/LeetCode_Problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0155-min-stack](https://github.com/sagar2525/LeetCode_Problem/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sagar2525/LeetCode_Problem/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sagar2525/LeetCode_Problem/tree/master/0232-implement-queue-using-stacks) |
@@ -164,6 +166,7 @@
 | [0100-same-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/sagar2525/LeetCode_Problem/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sagar2525/LeetCode_Problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
@@ -172,6 +175,7 @@
 | [0100-same-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/sagar2525/LeetCode_Problem/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sagar2525/LeetCode_Problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
@@ -180,6 +184,7 @@
 | [0100-same-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/sagar2525/LeetCode_Problem/tree/master/0112-path-sum) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/sagar2525/LeetCode_Problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
