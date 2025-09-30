@@ -12,29 +12,33 @@
 class Solution {
 public:
 
-    void solve(TreeNode* root,vector<TreeNode*>&newtree){
-        if(root==NULL){
-            return;
-        }
+ vector<TreeNode*> arr;
 
-        newtree.push_back(root);
 
-        solve(root->left,newtree);
-        solve(root->right,newtree);
-
+ void callfunction(vector<TreeNode*>arr){
+    if(arr.empty()){
+        return;
     }
-    
+    for(int i=1;i<arr.size();i++){
+        arr[i-1]->left = NULL;
+        arr[i-1]->right = arr[i];
+    }
+    arr.back()->left = NULL;     
+    arr.back()->right = NULL;
+ }
+
+ void solvearr(TreeNode* root){
+    if(root==NULL){
+        return;
+    }
+    arr.push_back(root);
+    solvearr(root->left);
+    solvearr(root->right);
+ }
+
     void flatten(TreeNode* root) {
-        if(root==NULL){
-            return;
-        }
-        vector<TreeNode*> newtree;
 
-        solve(root,newtree);
-
-        for(int i=0;i<newtree.size()-1;i++){
-            newtree[i]->left = NULL;
-            newtree[i]->right = newtree[i+1];
-        }
+        solvearr(root);
+        callfunction(arr);
     }
 };
