@@ -169,6 +169,7 @@
 | [0112-path-sum](https://github.com/sagar2525/LeetCode_Problem/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sagar2525/LeetCode_Problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/sagar2525/LeetCode_Problem/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -189,6 +190,7 @@
 | [0112-path-sum](https://github.com/sagar2525/LeetCode_Problem/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sagar2525/LeetCode_Problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/sagar2525/LeetCode_Problem/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -196,4 +198,8 @@
 | [0100-same-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/sagar2525/LeetCode_Problem/tree/master/0112-path-sum) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/sagar2525/LeetCode_Problem/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
