@@ -172,6 +172,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sagar2525/LeetCode_Problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/sagar2525/LeetCode_Problem/tree/master/0450-delete-node-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sagar2525/LeetCode_Problem/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
@@ -183,6 +184,7 @@
 | [0112-path-sum](https://github.com/sagar2525/LeetCode_Problem/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sagar2525/LeetCode_Problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sagar2525/LeetCode_Problem/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
@@ -195,6 +197,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sagar2525/LeetCode_Problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/sagar2525/LeetCode_Problem/tree/master/0450-delete-node-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sagar2525/LeetCode_Problem/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
@@ -208,5 +211,6 @@
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/sagar2525/LeetCode_Problem/tree/master/0450-delete-node-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sagar2525/LeetCode_Problem/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
