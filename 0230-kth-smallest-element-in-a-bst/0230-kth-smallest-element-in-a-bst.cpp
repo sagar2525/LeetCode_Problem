@@ -12,21 +12,24 @@
 class Solution {
 public:
 
-void doinorder(TreeNode* root, vector<int>&arr){
+void doinorder(TreeNode* root,int k,int &count,TreeNode* &ans){
     if(root==NULL){
         return;
     }
-    doinorder(root->left,arr);
-    arr.push_back(root->val);
-    doinorder(root->right,arr);
+    doinorder(root->left,k,count,ans);
+    count++;
+    if(count==k){
+        ans = root;
+    }
+    doinorder(root->right,k,count,ans);
+ 
 }
 
     int kthSmallest(TreeNode* root, int k) {
-        vector<int> arr;
-
-        doinorder(root,arr);
-
-        int ans = arr[k-1];
-        return ans;
+        int count =0;
+        TreeNode* ans = NULL;
+        doinorder(root,k,count,ans);
+        return ans->val;
+        
     }
 };
