@@ -12,6 +12,7 @@
 | [0040-combination-sum-ii](https://github.com/sagar2525/LeetCode_Problem/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/sagar2525/LeetCode_Problem/tree/master/0047-permutations-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sagar2525/LeetCode_Problem/tree/master/0084-largest-rectangle-in-histogram) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/sagar2525/LeetCode_Problem/tree/master/0134-gas-station) |
 | [0239-sliding-window-maximum](https://github.com/sagar2525/LeetCode_Problem/tree/master/0239-sliding-window-maximum) |
 | [0526-beautiful-arrangement](https://github.com/sagar2525/LeetCode_Problem/tree/master/0526-beautiful-arrangement) |
@@ -107,6 +108,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/sagar2525/LeetCode_Problem/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
@@ -167,6 +169,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/sagar2525/LeetCode_Problem/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sagar2525/LeetCode_Problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -198,6 +201,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/sagar2525/LeetCode_Problem/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sagar2525/LeetCode_Problem/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -219,6 +223,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sagar2525/LeetCode_Problem/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/sagar2525/LeetCode_Problem/tree/master/0450-delete-node-in-a-bst) |
