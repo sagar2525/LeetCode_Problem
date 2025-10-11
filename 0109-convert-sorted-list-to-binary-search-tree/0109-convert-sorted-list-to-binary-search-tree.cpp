@@ -22,31 +22,41 @@
 class Solution {
 public:
 
-int getlenght(ListNode* head){
+int getlength(ListNode*& head){
     ListNode* temp = head;
-    int cnt = 0;
-    while(temp != NULL){
-        cnt++;
+    int count = 0;
+    while(temp!=NULL){
+        count++;
         temp = temp->next;
     }
-    return cnt;
+    return count;
+
 }
-TreeNode* solve(ListNode* &head, int n){
-    if(head==NULL || n<=0){
+
+TreeNode* createtree(ListNode* & head , int length){
+    if(head==NULL  || length <=0){
         return NULL;
     }
-    TreeNode* leftsubtree = solve(head, n/2);
+
+    // LNR
+    // L
+    TreeNode* leftsubtree = createtree(head, length/2);
+    //N
     TreeNode* root = new TreeNode(head->val);
     root->left = leftsubtree;
 
+    // ab head mid per khdaa hai , usko aage bhejo 
     head = head->next;
-    TreeNode* rightsubtree = solve(head,n-n/2-1);
+    // ab head right part of LL k start node pr khdaa hoga
+    TreeNode* rightsubtree = createtree(head , length-length/2-1);
     root->right = rightsubtree;
-    return root;
+    return root; 
+
 }
+
     TreeNode* sortedListToBST(ListNode* head) {
-        int n = getlenght(head);
-        TreeNode* root = solve(head,n);
-        return root;
+        int length = getlength(head);
+        TreeNode* newtree = createtree(head,length);
+        return newtree;
     }
 };
