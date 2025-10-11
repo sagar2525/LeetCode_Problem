@@ -27,6 +27,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/sagar2525/LeetCode_Problem/tree/master/0032-longest-valid-parentheses) |
 | [0526-beautiful-arrangement](https://github.com/sagar2525/LeetCode_Problem/tree/master/0526-beautiful-arrangement) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1758-distribute-repeating-integers](https://github.com/sagar2525/LeetCode_Problem/tree/master/1758-distribute-repeating-integers) |
 ## Backtracking
 |  |
@@ -184,6 +185,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sagar2525/LeetCode_Problem/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -199,6 +201,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sagar2525/LeetCode_Problem/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -217,6 +220,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sagar2525/LeetCode_Problem/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -235,4 +239,5 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sagar2525/LeetCode_Problem/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
