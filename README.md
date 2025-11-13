@@ -240,4 +240,8 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sagar2525/LeetCode_Problem/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/sagar2525/LeetCode_Problem/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
