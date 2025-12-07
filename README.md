@@ -184,6 +184,7 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sagar2525/LeetCode_Problem/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
@@ -219,6 +220,7 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sagar2525/LeetCode_Problem/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
@@ -228,6 +230,7 @@
 | [0101-symmetric-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/sagar2525/LeetCode_Problem/tree/master/0112-path-sum) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sagar2525/LeetCode_Problem/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
