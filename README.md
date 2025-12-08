@@ -57,6 +57,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/sagar2525/LeetCode_Problem/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/sagar2525/LeetCode_Problem/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/sagar2525/LeetCode_Problem/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/sagar2525/LeetCode_Problem/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/sagar2525/LeetCode_Problem/tree/master/0344-reverse-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sagar2525/LeetCode_Problem/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/sagar2525/LeetCode_Problem/tree/master/0908-middle-of-the-linked-list) |
@@ -68,6 +69,7 @@
 | [0016-3sum-closest](https://github.com/sagar2525/LeetCode_Problem/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/sagar2525/LeetCode_Problem/tree/master/0047-permutations-ii) |
 | [0148-sort-list](https://github.com/sagar2525/LeetCode_Problem/tree/master/0148-sort-list) |
+| [0295-find-median-from-data-stream](https://github.com/sagar2525/LeetCode_Problem/tree/master/0295-find-median-from-data-stream) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sagar2525/LeetCode_Problem/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Linked List
 |  |
@@ -136,6 +138,7 @@
 | [0155-min-stack](https://github.com/sagar2525/LeetCode_Problem/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/sagar2525/LeetCode_Problem/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/sagar2525/LeetCode_Problem/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/sagar2525/LeetCode_Problem/tree/master/0295-find-median-from-data-stream) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -168,6 +171,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sagar2525/LeetCode_Problem/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/sagar2525/LeetCode_Problem/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/sagar2525/LeetCode_Problem/tree/master/0295-find-median-from-data-stream) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sagar2525/LeetCode_Problem/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Monotonic Queue
 |  |
@@ -283,4 +287,8 @@
 | [1827-invalid-tweets](https://github.com/sagar2525/LeetCode_Problem/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/sagar2525/LeetCode_Problem/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/sagar2525/LeetCode_Problem/tree/master/2087-confirmation-rate) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/sagar2525/LeetCode_Problem/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
