@@ -12,6 +12,7 @@
 | [0039-combination-sum](https://github.com/sagar2525/LeetCode_Problem/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/sagar2525/LeetCode_Problem/tree/master/0040-combination-sum-ii) |
 | [0047-permutations-ii](https://github.com/sagar2525/LeetCode_Problem/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/sagar2525/LeetCode_Problem/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sagar2525/LeetCode_Problem/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sagar2525/LeetCode_Problem/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/sagar2525/LeetCode_Problem/tree/master/0134-gas-station) |
@@ -69,6 +70,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/sagar2525/LeetCode_Problem/tree/master/0016-3sum-closest) |
 | [0047-permutations-ii](https://github.com/sagar2525/LeetCode_Problem/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/sagar2525/LeetCode_Problem/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/sagar2525/LeetCode_Problem/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/sagar2525/LeetCode_Problem/tree/master/0295-find-median-from-data-stream) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sagar2525/LeetCode_Problem/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -97,6 +99,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sagar2525/LeetCode_Problem/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/sagar2525/LeetCode_Problem/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/sagar2525/LeetCode_Problem/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sagar2525/LeetCode_Problem/tree/master/0142-linked-list-cycle-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/sagar2525/LeetCode_Problem/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -134,6 +137,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/sagar2525/LeetCode_Problem/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sagar2525/LeetCode_Problem/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/sagar2525/LeetCode_Problem/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/sagar2525/LeetCode_Problem/tree/master/0344-reverse-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/sagar2525/LeetCode_Problem/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Design
